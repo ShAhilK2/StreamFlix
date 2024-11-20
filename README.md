@@ -24,6 +24,7 @@ in script in package.json file
 
   - Sign In / Sign Up Form
   - redirect to Browse Page
+  - Sign Up
 
 - Browse (after authentication)
 - Header

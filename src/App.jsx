@@ -1,7 +1,9 @@
 import React from "react";
 
+import AppLayout from "./components/AppLayout";
+
 function App() {
-  return <div className="text-3xl text-center bg-red-600">Hello World</div>;
+  return <AppLayout />;
 }
 
 export default App;
