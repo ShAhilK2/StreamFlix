@@ -43,7 +43,7 @@ function Header() {
   };
 
   return (
-    <div className="absolute px-8 py-4 bg-gradient-to-b from-black z-10 w-full flex justify-between items-center">
+    <div className="absolute px-8 py-4 bg-gradient-to-b from-black z-10 w-full flex justify-between items-center ">
       <img className="w-36" src={LOGO} alt="logo" />
 
       {/* Check if user is logged in */}
