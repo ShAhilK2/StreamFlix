@@ -59,6 +59,10 @@ in script in package.json file
 - Made the Browsre page amazing with Tailwind CSS
 - usePopularMovies Custom hook
 
+- GPT PAGE
+- GPT SEARCH BAR
+- (IMP) MULTI LANGUAGE FEATURE
+
 - Browse (after authentication)
 - Header
 - Main Movie
