@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { lang } from "./constants";
+import { lang } from "../constants";
 
 const config = createSlice({
     name:"config",

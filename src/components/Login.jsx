@@ -9,7 +9,7 @@ import {
 import { auth } from "../utils/firebase";
 
 import { useDispatch } from "react-redux";
-import { addUser } from "../utils/userSlice";
+import { addUser } from "../utils/store/userSlice";
 import { BACKGROUND_IMAGE, USER_AVATAR } from "../utils/constants";
 
 function Login() {

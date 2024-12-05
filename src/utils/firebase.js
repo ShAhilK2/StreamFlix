@@ -2,13 +2,15 @@
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 import { getAuth } from "firebase/auth";
+
+const firebasekey = import.meta.env.VITE_FIREBASE_KEY;
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDTqBOj_t9iJFo7pQfsjAeE0QYHG8P0L2o",
+  apiKey: firebasekey,
   authDomain: "streamflixgpt-a6224.firebaseapp.com",
   projectId: "streamflixgpt-a6224",
   storageBucket: "streamflixgpt-a6224.firebasestorage.app",

@@ -62,6 +62,16 @@ in script in package.json file
 - GPT PAGE
 - GPT SEARCH BAR
 - (IMP) MULTI LANGUAGE FEATURE
+- Get Open AI Api Key
+- Gpt Search API Call
+  fetched
+- gptMoviesSuggestions from TMDB
+  created gptSlice added data
+- Resused Movie List component to make movie on container
+- Memoization
+- Added .env file
+- Adding .env file to gitignore
+  -Make Our Site Responsive
 
 - Browse (after authentication)
 - Header
